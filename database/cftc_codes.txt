@@ -1,4 +1,7 @@
-https://www.cftc.gov/files/dea/history/deacot2021.zip
+_UPDATE = 'https://www.cftc.gov/files/dea/history/deacot2021.zip'
+_DB_PATH = r'D:/Python/My_projects/COT/database/'
+_DB = r'D:/Python/My_projects/COT/database/data.txt'
+valid_dates = []
 
 "098662"	DX	U.S. DOLLAR INDEX
 "232741"	WD	AUSTRALIAN DOLLAR
